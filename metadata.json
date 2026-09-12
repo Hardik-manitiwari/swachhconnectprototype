@@ -1,0 +1,6 @@
+{
+  "name": "SwachhConnect",
+  "description": "Civic waste management and municipal sanitation platform connecting Citizens, Nagar Nigam Staff, and Recycling Partners.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
